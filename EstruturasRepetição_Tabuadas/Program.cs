@@ -10,6 +10,15 @@ namespace EstruturasRepetição_Tabuadas
     {
         static void Main(string[] args)
         {
+            /* |====================================================| */
+            /* |* AUTOR: RENAN LIMA | RA: 6321300 ******************| */
+            /* |* DATA DE CRIAÇÃO: 09.JUN.2022 *********************| */
+            /* |* ATIVIDADE PROPOSTA PELO PROFESSOR DJALMA *********| */
+            /* |* MATÉRIA: LÓGICA DE PROGRAMAÇÃO *******************| */
+            /* |* SEMESTRE: 1 | INSTITUIÇÃO: UNIFAAT ATIBAIA *******| */
+            /* |* CURSO: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS *****| */
+            /* |====================================================| */
+
             // variáveis responsaveis pelos valores permitidos na tabuada, n1 e n2 definiram até onde será mostrada
             int n1, n2, tab, sw; 
             
