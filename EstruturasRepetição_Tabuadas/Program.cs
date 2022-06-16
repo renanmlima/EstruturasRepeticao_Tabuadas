@@ -117,6 +117,31 @@ namespace EstruturasRepetição_Tabuadas
                 }
 
             }
+            
+            //// CÓDIGO EXTRA
+            //// Mostrar as tabuadas de 1 a 10 em sequência.
+
+            //int mult = 0, produto, op = 0;
+
+            //while (mult <= 10)
+            //{
+            //    Console.WriteLine("--------------------");
+            //    Console.WriteLine("TABUADA DO " + mult);
+            //    Console.WriteLine("--------------------");
+
+            //    while (op <= 10)
+            //    {
+
+            //        produto = mult * op;
+            //        Console.WriteLine(mult + " x " + op + " = " + produto);
+            //        op = op + 1;
+
+            //    }
+
+            //    mult = mult + 1;
+            //    op = op - 10;
+            //}
+            
             Console.ReadKey();
 
         }
